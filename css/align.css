@@ -1,0 +1,31 @@
+#container  {
+	display: flex;
+	flex-wrap: no-wrap;
+	text-align: center;
+}
+
+
+#left {
+	width: 33%;
+	float:left;
+	background-position:right;
+}
+#right {
+	width: 33%;
+	float:left;
+	background-position:left;
+
+}
+#center {
+	width: 33%;
+	float:left;
+}
+
+h3  {
+	text-align: center;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+
+

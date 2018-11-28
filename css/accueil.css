@@ -1,0 +1,8 @@
+#test  {
+	width: 16%;
+	display: flex;
+	flex-wrap: no-wrap;      /* Corps de la page*/
+	margin-right: 8px;
+	justify-content: left;
+	text-align: left;
+}
